@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Maurya</h1>
 <h1 align="center">MERN Full Stack Web Developer</h1>
-<h3>projects:</h3>
+<h3><b>PROJECTS:</b></h3>
 <a href="https://lustrous-sprite-49b8f5.netlify.app/"><b>PROJECT 1</b></a><br>
 <h5>This project has been made using<b>HTML.</b></h5>
 <a href="https://rainbow-nougat-6bae4c.netlify.app/"><b>PROJECT 2</b></a><br>
