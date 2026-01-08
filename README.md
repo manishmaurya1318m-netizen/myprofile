@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Maurya</h1>
 <h1 align="center">MERN Full Stack Web Developer</h1>
 <h3>projects:</h3>
-<a href="https://lustrous-sprite-49b8f5.netlify.app"></a>
+<a href="https://lustrous-sprite-49b8f5.netlify.app">Project 1</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-maurya-ba0603381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish maurya" height="30" width="40" /></a>
