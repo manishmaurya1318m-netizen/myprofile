@@ -15,4 +15,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-maurya-ba0603381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_manish_813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_manish_813" height="30" width="40" /></a>
-
+<a href="https://x.com/Manish124962" target="blank"><img align="center" src="https://tse3.mm.bing.net/th/id/OIP.e62uIti__6ai-bXs6quo-wHaE9?rs=1&pid=ImgDetMain&o=7&rm=3" alt="MANISH" height="30" width="40"/></a>
