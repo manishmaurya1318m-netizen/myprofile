@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Maurya</h1>
 <h3 align="center">MERN Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="manishmaurya" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/manish-maurya-ba0603381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="manishmaurya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmaurya" alt="manishmaurya" /></a> </p>
 
