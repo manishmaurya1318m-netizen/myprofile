@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Maurya</h1>
 <h1 align="center">MERN Full Stack Web Developer</h1>
 <h3>projects:</h3>
-<a href="https://lustrous-sprite-49b8f5.netlify.app">Project 1</a>
+<a href="https://lustrous-sprite-49b8f5.netlify.app">Project 1</a><br>
 <a href="https://rainbow-nougat-6bae4c.netlify.app/">Project 2</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
